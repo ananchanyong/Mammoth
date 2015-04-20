@@ -1,0 +1,26 @@
+User requirement specification
+URS-01:Administator can log into the temple system
+URS-02:Administator can log of the temple system
+URS-03:Administator can edit history information on web page
+URS-04:Administator can add activity of the temple on activity page
+URS-05:Administator can edit activity of the temple on activity page
+URS-06:Administator can delete activity of the temple on activity page
+URS-07:Administator can view Dhamma question on Q&A page
+URS-08:Administator can answer Dhamma question on Q&A page
+URS-09:Administator can add photo of the temple on gallery page
+URS-10:Administator can delete photo of the temple on gallery page
+URS-11:Administator can edit contact information on contact page
+URS-12:Administator can view member informations on information page
+URS-13:User can register for their user account to the system
+URS-14:User can log into the temple system
+URS-15:User can log out of the temple system
+URS-16:User can edit personal information on information page
+URS-17:User can view personal infotmation on information page
+URS-18:User can view history informaiton on web page
+URS-19:User can view activity of the temple on activity page
+URS-20:User can view map and direction on contact page
+URS-21:User can view photo of the temple on gallery page
+URS-22:User can ask the Dhamma question on Q&A page
+URS-23:User can connect to facbook by the link on contact page
+URS-24:User can view question in the Q&A forum on the on Q&A page
+
